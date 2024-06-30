@@ -14,3 +14,4 @@ Google Developers の Technical Writing を日本語化したものです。
 - <a href="https://developers.google.com/tech-writing/one/short-sentences">Short sentences</a>: [ShortSentences.md](./docs/one/04.ShortSentences.md)
 - <a href="https://developers.google.com/tech-writing/one/lists-and-tables">Lists and tables</a>: [ListsAndTables.md](./docs/one/05.ListsAndTables.md)
 - <a href="https://developers.google.com/tech-writing/one/paragraphs">Paragraphs</a>: [Paragraphs.md](./docs/one/06.Paragraphs.md)
+- <a href="https://developers.google.com/tech-writing/one/audience">Audience</a>: [Audience.md](./docs/one/07.Audience.md)
