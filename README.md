@@ -15,3 +15,4 @@ Google Developers の Technical Writing を日本語化したものです。
 - <a href="https://developers.google.com/tech-writing/one/lists-and-tables">Lists and tables</a>: [ListsAndTables.md](./docs/one/05.ListsAndTables.md)
 - <a href="https://developers.google.com/tech-writing/one/paragraphs">Paragraphs</a>: [Paragraphs.md](./docs/one/06.Paragraphs.md)
 - <a href="https://developers.google.com/tech-writing/one/audience">Audience</a>: [Audience.md](./docs/one/07.Audience.md)
+- <a href="https://developers.google.com/tech-writing/one/documents">Documents</a>: [Documents.md](./docs/one/08.Documents.md)
